@@ -1,0 +1,19 @@
+{
+  "name": "shared-target",
+  "title": "Shared Target",
+  "description": "",
+  "version": "0.0.1",
+  "author": "Mejari",
+  "scripts": [],
+  "esmodules": ["shared-target.js"],
+  "styles": ["shared-target.css"],
+  "packs": [],
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.7.9",
+  "socket": true,
+  "bugs": "https://github.com/Mejari/shared-target/issues",
+  "allowBugReporter": true,
+  "url": "https://github.com/Mejari/shared-target",
+  "manifest": "https://raw.githubusercontent.com/Mejari/shared-target/raw/master/package/module.json",
+  "download": "https://raw.githubusercontent.com/Mejari/shared-target/raw/master/package/shared-target-v0.0.1.zip"
+}
