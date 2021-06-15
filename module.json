@@ -2,18 +2,33 @@
   "name": "shared-target",
   "title": "Shared Target",
   "description": "",
-  "version": "0.0.1",
   "author": "Mejari",
-  "scripts": [],
-  "esmodules": ["shared-target.js"],
-  "styles": ["shared-target.css"],
-  "packs": [],
-  "minimumCoreVersion": "0.7.5",
-  "compatibleCoreVersion": "0.7.9",
-  "socket": true,
-  "bugs": "https://github.com/Mejari/shared-target/issues",
-  "allowBugReporter": true,
+  "authors": [
+    {
+      "name": "Dylan Gulick",
+      "email": "mejari@gmail.com"
+    }
+  ],
   "url": "https://github.com/Mejari/shared-target",
-  "manifest": "https://raw.githubusercontent.com/Mejari/shared-target/raw/master/package/module.json",
-  "download": "https://raw.githubusercontent.com/Mejari/shared-target/raw/master/package/shared-target-v0.0.1.zip"
+  "bugs": "https://github.com/Mejari/shared-target/issues",
+  "flags": {},
+  "version": "0.0.2",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.6",
+  "scripts": [],
+  "esmodules": [
+    "shared-target.js"
+  ],
+  "styles": [
+    "shared-target.css"
+  ],
+  "languages": [],
+  "packs": [],
+  "system": [],
+  "dependencies": [],
+  "socket": true,
+  "manifest": "https://raw.githubusercontent.com/Mejari/shared-target/main/module.json",
+  "download": "https://raw.githubusercontent.com/Mejari/shared-target/main/shared-target-v0.0.2.zip",
+  "protected": false,
+  "coreTranslation": false
 }
